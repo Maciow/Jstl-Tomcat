@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Jstl Tomcat:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Jstl_Tomcat_war</output-path>
+    <root id="archive" name="Jstl Tomcat_war.war">
+      <element id="artifact" artifact-name="Jstl Tomcat:war exploded" />
+    </root>
+  </artifact>
+</component>
